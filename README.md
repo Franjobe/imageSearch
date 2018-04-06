@@ -1,2 +1,1 @@
-# imageSearch
-FCC exercise 04 - Image Search
+# Backend Challenges boilerplate - package.json
